@@ -1,0 +1,18 @@
+[
+  {
+    "path": "src/main.jsx",
+    "existed": true
+  },
+  {
+    "path": "src/components/MusicPlayer.jsx",
+    "existed": false
+  },
+  {
+    "path": "src/components/MusicPlayer.css",
+    "existed": false
+  },
+  {
+    "path": "public/audio/khuc-ca-doi-minh.mp3",
+    "existed": false
+  }
+]

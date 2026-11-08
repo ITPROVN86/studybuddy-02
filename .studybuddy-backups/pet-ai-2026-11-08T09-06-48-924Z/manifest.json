@@ -1,0 +1,30 @@
+[
+  {
+    "path": "src/main.jsx",
+    "existed": true
+  },
+  {
+    "path": "src/pages/PetRecognition.jsx",
+    "existed": false
+  },
+  {
+    "path": "src/pages/PetRecognition.css",
+    "existed": false
+  },
+  {
+    "path": "src/pages/Home.jsx",
+    "existed": true
+  },
+  {
+    "path": "src/pages/Flashcards.jsx",
+    "existed": true
+  },
+  {
+    "path": "src/pages/Quiz.jsx",
+    "existed": true
+  },
+  {
+    "path": "src/pages/Chat.jsx",
+    "existed": true
+  }
+]
